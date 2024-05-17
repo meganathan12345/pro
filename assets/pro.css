@@ -1,0 +1,1087 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: "Varela Round", sans-serif;
+}
+.parent{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.head{
+    width: 20%;
+    display: flex;
+    text-align: start;
+}
+.btn{
+    /* width: 20%; */
+    color: rgb(79,76,74);
+    /* flex-direction: column; */
+    /* display: flex; */
+    justify-content: center;
+}
+.btn1{
+    /* width: 10%; */
+    display: flex;
+    
+}
+.head1{
+    width: 40%;
+    font-weight: 50;
+    align-items: center;
+    /* display: flex;  */
+    flex-direction: column;
+    gap: 5px;
+}
+.img{
+    width: 18%;
+}
+.icon{
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icon1{
+    color: rgb(79,76,73);
+}
+.container{
+    width: 100%;
+    align-items: center;
+}
+.parent3{
+    width: 100%;
+    height: 60px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+.a1{
+    width: 6%;
+    text-decoration: none;
+    color: black;
+}
+.a1:hover{
+    color: rgb(234,183,62);
+}
+.a2{
+    width: 6%;
+    text-decoration: none;
+    color: black;
+}
+.a2:hover{
+    color: rgb(234,183,62);
+}
+.a3{
+    width: 9%;
+    text-decoration: none;
+    color: black;
+}
+.a3:hover{
+    color: rgb(234,183,62);
+}
+.a4{
+    width: 8%;
+    text-decoration: none;
+    color: black;
+}
+.a4:hover{
+    color: rgb(234,183,62);
+}
+.a5{
+    width: 6%;
+    text-decoration: none;
+    color: black;
+}
+.a5:hover{
+    color: rgb(234,183,62);
+}
+.a6{
+    text-decoration: none;
+    color: black;
+}
+.a6:hover{
+    color: rgb(234,183,62);
+}
+.image{
+    width: 100%;
+    height: 90vh;
+    background-image: url(https://minimalin-demo.myshopify.com/cdn/shop/files/fashion-custom-slide-6_1920x.png?v=1695147484);
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    /* background-color: aqua; */
+}
+.container1{
+    width: 50%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* background-color: white; */
+    align-items: start;
+}
+.p1{
+    font-size: 30px;
+    align-items: center;
+}
+.p2{
+   color: rgb(89,86,82);
+}   
+.button{
+    width: 20%;
+    height: 45px;
+    font-size: 100%;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(234,183,62);
+    border: none;
+    align-items: start;
+    border-radius: 5px 5px;
+}
+.button:hover{
+    color: black;
+    background-color: rgb(255,255,255);
+    border-color:  rgb(234,183,62);
+    border: 2px solid black;
+}
+.parent4{
+    width: 85%;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0% auto;
+}
+.ch1{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 8px
+}
+.container3{ 
+    width: 23%;
+    display: flex;
+    gap: 8px;
+}
+.c1{
+    font-size: 130%;
+}
+.c2{
+    display: flex;
+    color: rgb(89,86,82);  
+}
+.b5{
+    width: 30%;
+    height: 30%;
+    display: flex;
+}
+.parent5{
+    width: 85%;
+    height: 80vh;
+    display: flex;
+    justify-content: space-around;
+    margin: 0% auto;
+    gap: 3%;
+    /* align-items: center; */
+    /* align-items: center; */
+}
+.man1{ 
+    /* width: 100%; */
+    /* height: 30vh; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px; 
+}
+.nick1{
+    width: 100%;
+    height: 56vh;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5% 5%;
+    color: rgb(234,183,62);
+    align-items: center;
+}
+.nn2{
+    width: 100%;
+    text-decoration: none;
+    color: black;
+}
+.nn2:hover{
+    color: rgb(234,183,62);
+}
+.h1{
+    width: 100%;
+    height: 100vh;
+    font-size: 100%;
+    color: rgb(89,86,82);
+}
+.abi{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    /* justify-content: space-evenly; */
+    gap: 7px;
+}
+.bn1{
+    width: 9%;
+    height: 58px;
+    font-size: 100%;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 6px 6px;
+}
+.bn2{
+    width: 9%;
+    height: 58px;
+    font-size: 100%;
+    background-color: rgb(235,235,235);
+    border: none;
+    border-radius: 6px 6px;
+}
+.parent7{
+    width: 95%;
+    height: 57vh;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+}
+.logo0{
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    /* background-color: aqua; */
+    align-items: center;
+    gap: 10px;
+    position: relative;
+}
+.btn00{
+    padding: 4px;
+    background-color: red;
+    color: white;
+    position: absolute;
+    border: none;
+    border-radius: 5px;
+    right: 15%;
+    top: 10px;
+    font-weight: 700;
+}
+.btn0{
+    width: 100%;
+    position: absolute;
+    display: flex;
+    left: 55%;
+    gap: 5px;
+    top: 7px;
+}
+.btn9{
+   width: 15%;
+   padding: 6px;
+   background-color: white;
+   color: black;
+   position: absolute;
+   border: none;
+   right: 15%;
+   top: 10px;
+   font-weight: 700; 
+   border-radius: 5px;
+}
+.btn7{
+    width: 15%;
+    padding: 6px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+}
+.img1{
+    width: 80%;
+    border-radius: 10px;
+    position: relative;
+    /* align-items: center; */
+}
+.img2{
+    width:80%;
+    position: absolute;
+    border-radius: 10px;
+}
+.logo0:hover .img2{
+    opacity: 0;
+    /* transition: s; */
+}
+.ra0{
+    width: 68%;
+    height: 15%;
+    bottom: 30%;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+}
+.logo0:hover .ra0{
+    transition: 0s;
+}
+.ra1{
+    width: 20%;
+    height: 80%;
+}
+.reel2{
+    /* width: 100%; */
+    text-decoration: none;
+    color: black;
+}
+.reel2:hover{
+    color: rgb(234,183,62);
+}
+.reel4{
+    color: rgb(234,183,62);
+}
+.reel5{
+    display: flex;
+    gap: 10px;
+}
+.rc{
+    display: flex;
+    gap: 10px;
+}
+.parent7:hover .ra0{
+opacity: 0s;
+transition: 1s;
+}
+.rc1{
+    background-color: rgb(255,215,0);
+    border-radius: 50%;
+    color: rgb(255,215,0);
+}
+.rc2{
+    background-color: rgb(128,128,128);
+    border-radius: 50%;
+    color: rgb(128,128,128);
+}
+.rc3{
+    background-color: rgb(255,0,255);
+    border-radius: 50%;
+    color: rgb(255,0,255);
+}
+.rc4{
+    background-color: rgb(128,0,0);
+    border-radius: 50%;
+    color: rgb(128,0,0);
+}
+.rb1{
+ background-color: rgb(255,0,0);
+ border-radius: 50%;
+ color: rgb(255,0,0);
+}
+.rb2{
+    background-color: rgb(0,128,0);
+    border-radius: 50%;
+    color: rgb(0,128,0);
+}
+.rb3{
+    background-color: rgb(0,0,255);
+    border-radius: 50%;
+    color: rgb(0,0,255);
+}
+.rb4{
+    background-color: rgb(255,255,0);
+    border-radius: 50%;
+    color: rgb(255,255,0);
+}
+.rm1{
+    background-color: rgb(226, 163, 163);
+    border-radius: 50%;
+    color: rgb(226, 163, 163);
+}
+.rm2{
+    background-color: rgb(255,215,0);
+    border-radius: 50%;
+    color: rgb(255,215,0);
+}
+.rm3{
+    background-color: rgb(128,128,128);
+    border-radius: 50%;
+    color: rgb(128,128,128);
+}
+.rm4{
+    background-color: rgb(255,0,255);
+    border-radius: 50%;
+    color: rgb(255,0,255);
+}
+.parent9{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+}
+.bon1{
+    padding: 13px 35px;
+    background-color: rgb(234,183,62);
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+    font-weight: 900;
+}
+.bon1:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.parent10{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.para{
+    font-size: xx-large;
+    font-weight: 600;
+}
+.gret{
+    width: 85%;
+    height: 100%;
+    margin: 0% auto;
+    display: grid;
+    grid-template-columns: repeat(3,3fr);
+    gap: 30px;
+}
+.class1{
+
+    width: 100%;
+    height: 125px;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center;
+    /* margin: 1% 1%; */
+    border: 2px solid rgb(235,235,235);
+    border-radius: 10px;
+    gap: 30px;
+    justify-content: space-evenly;
+}
+.class1 img{
+    width: 100%;
+    height: 90px;
+    border-radius: 12px;
+}
+.class2{
+    width: 60%;
+    height: 20vh; 
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    gap: 8px; 
+}
+.been2{
+    color: rgb(234,183,62);
+}
+.been3{
+    text-decoration: none;
+    color: black;
+}
+.been3:hover{
+    color:  rgb(234,183,62);
+}
+.been4{
+    display: flex;
+    gap: 4px;
+}
+.been5{
+    color: rgb(80,77,74);
+}
+.been6{
+    color: rgb(234,183,62);
+}
+.button2{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button3{
+    padding: 13px 33px;
+    background-color: rgb(234,183,62);
+    color: white;
+    border: none;
+    font-size: large;
+    font-weight: 400;
+    border-radius: 5px;
+}
+.button3:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.parent11{
+    width: 85%;
+    height: 50vh;
+    margin: 0% auto;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.chaild1{
+    width: 28%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+}
+.chaild1 img{
+    width: 100%;
+    height: 280px;
+    border-radius: 10px;
+}
+.chaild3{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: 550;
+}
+.chaild3:hover{
+    color: rgb(234,183,62);
+}
+.parent12{
+    width: 90%;
+    height: 30vh;
+    display: flex;
+    margin: 0% auto;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.chaild5:hover{
+    transition: 0.4;
+    transform: scale(1.1)
+}
+.parent13{
+    width: 100%;
+    height: 70vh;
+    background-color: rgb(235,235,235);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chaild6{
+    width: 60%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    /* font-size: larger; */
+    align-items: center;
+    font-size: large
+}
+.sd1{
+    /* width: 100%; */
+    margin: 0% auto;
+    font-size: xx-large;
+    align-items: center;
+    font-weight: 900;
+    color: rgb(234,183,62);
+}
+.chaild9{
+    height: 100vh;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: larger;
+    color: rgb(108,105,99);
+    gap: 20px;
+}
+.parent14{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dhoni1{
+    font-size: xx-large;
+    font-weight: 900;
+}
+.parent15{
+    width: 90%;
+    height: 60vh;
+    display: flex;
+    margin: 0% auto;
+    gap: 25px;
+}
+.dhoni2{
+    width: 35%;
+    height: 310px;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+.dhoni2 img{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+.dhoni3:hover{
+    transform: scale(1.1);
+}
+.dhoni4{
+    display: flex;
+}
+.dhoni5{
+    text-decoration: none;
+    color: black;
+}
+.dhoni6{
+    text-decoration: none;
+    color: rgb(234,183,62);
+}
+.parent16{
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pen1{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+.pen2{
+    font-size: xx-large;
+    font-weight: 600;
+}
+.pen3{
+    text-decoration: none;
+    color: black;
+}
+.pen3:hover{
+    color: rgb(234,183,62);
+}
+.parent17{
+    width: 90%;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    /* background-color: blueviolet; */
+    /* justify-content: center; */
+    margin: 0% auto;
+    justify-content: space-evenly;
+}
+.gem1{
+    width: 15%;
+    height: 15vh;
+    display: flex;
+
+}
+.gem1 img{
+    width: 100%;
+    border-radius: 10px;   
+}
+.parent18{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+}
+.gem3{
+    width: 100%;
+    display: flex;
+    align-items: end;
+    gap: 50px;
+    background-color: rgb(235,235,235);
+    font-size: large;
+}
+.parent19{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(252,247,235);
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    
+}
+.moon1{
+    width: 50%;
+    height: 40vh;
+    /* background-color: aqua; */
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+    align-items: center;
+}
+.text{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.moon4{
+    width: 100%;
+    height: 65px;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    font-size: medium;
+    color: black;
+}
+.moon4 input{
+    width: 80%;
+    height: 100%;
+    border: none;
+    background: none;
+    outline: none;
+    font-size: medium;
+    align-items: center;
+}
+.moon5{
+    width: 20%;
+    height: 100%;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    background-color: rgb(234,183,62);
+    color: white;
+    font-size: 100%;
+    font-weight: 500;
+}
+.moon5:hover{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+}
+.moon2{
+    font-size: xx-large;
+}
+.allparent{
+    width: 100%;
+    background-color: rgb(252,247,235);
+}
+.parent20{
+    width: 85%;
+    height: 60vh;
+    background-color: rgb(252,247,235);
+    display: flex;
+    margin: 0% auto;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(252,247,235);
+}
+.moon00{
+    width: 40%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.parent21{
+    width: 15%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.moon02{
+    color: rgb(108,105,99);
+}
+.m00{
+  text-decoration: none;
+  color: rgb(108,105,99);
+}
+.m00:hover{
+    color: rgb(234,183,62);
+}
+@media(max-width:1200px){
+    .head1{
+        width: 80%;
+        display: flex;
+    }
+    .icon{
+        width: 20%;
+    }
+    .parent3{
+        width: 100%;
+        gap: 30px;
+    }
+    .image{
+        width: 100vw;
+        height: 50vh;
+    }
+    .container1{
+        gap: 30px;
+    }
+    .p1{
+        font-size: xx-large;
+    }
+    .p2{
+        font-size: larger;
+    }
+    .button{
+        width: 27%;
+    }
+    .parent4{
+        width: 90%;
+        height: 25vh;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .container3{
+        width: 73%;
+        margin: 0 auto;
+
+    }
+    .parent5{
+        width: 80%;
+        height: 80vh;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        /* background-color: aqua; */
+        align-items: center;
+    }
+    .man1{
+        height: 35vh;
+    }
+    .nick1{
+        width: 100%;
+        height: 30vh;
+    }
+    .abi{
+        height: 15vh;
+    }
+    .bn1{
+        width: 15%;
+    }
+    .bn2{
+        width: 15%;
+    }
+    .parent7{
+        height: 100%;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .parent8{
+         font-size: x-large;
+    }
+    .patent10{
+        height: 25vh;
+        /* font-size: xx-large; */
+    }
+    .gret{
+        display: grid;
+        grid-template-columns: repeat(2,3fr);
+    }
+    .button2{
+        height: 20vh;
+    }
+    .parent11{
+        width: 90%;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .chaild1{
+        width: 100%;
+    }
+    .parent13{
+        width: 100%;
+        height: 50vh;
+    }
+    .chaild9{
+        width: 155%;
+    }
+    .parent14{
+        width: 100%;
+        height: 25vh;
+    }
+    .parent15{
+        width: 90%;
+        height: 25vh;
+    }
+    .pen3{
+        font-size: x-large;
+    }
+    .parent17{
+        width: 90%;
+        height: 20vh;
+    }
+    .gem1{
+        width: 19%;
+        height: 15vh;
+        display: flex;
+        gap: 5pxx;
+    }
+    .parent18{
+        width: 100%;
+        height: 30vh;
+    }
+    .moon2{
+        font-size: xx-large;
+    }
+    .moon3{
+        width: 150%;
+        font-size: large;
+    }
+    .parent19{
+        width: 100%;
+        height: 40vh;
+    }
+    .parent20{
+        width: 85%;
+        height: 40vh;
+        align-items: start;
+    }
+    .parent21{
+        width: 20%;
+    }
+}
+@media(max-width:600px){
+    .head{
+        width: 25%;
+        font-size: x-small;
+    }
+    .img{
+        width: 40%;
+    }
+    .icon{
+        width: 25%;
+        font-size: x-small;
+    }
+    .parent3{
+        font-size: x-small;
+    }
+    .image{
+        height: 35vh;
+    }
+    .container1{
+        height: 19vh;
+    }
+    .p1{
+        font-size: x-large;
+    }
+    .p2{
+        font-size: x-small;
+    }
+    .button{
+        width: 50%;
+    }
+    .parent4{
+        height: 50vh;
+    }
+    .parent5{
+        width: 100%;
+        height: 135vh;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .bn1{
+        width: 25%;
+    }
+    .bn2{
+      width: 25%;
+    }
+    .parent7{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .btn00{
+        padding: 6px;
+        font-size: large;
+        font-weight: 700;
+    }
+    .gret{
+        display: grid;
+        grid-template-columns: repeat(1,9fr);
+    }
+    .parent11{
+        width: 100%;
+        height: 100%;
+        display: grid;
+        grid-template-columns: repeat(1,4fr);
+        gap: 60px;
+    }
+    .chaild9{
+        width: 80%;
+    }
+    .parent13{
+        width: 100%;
+        height: 55vh;
+    }
+    .chaild5{
+        width: 70%;
+    }
+    .chaild6{
+        width: 100%;
+        font-size: small;
+    }
+    .parent15{
+        width: 90%;
+        height: 100%;
+        align-items: center;
+        display: grid;
+        grid-template-columns: repeat(1,3fr);
+        gap: 50px;
+    }
+    .dhoni2{
+        width: 85%;
+        margin: 0 auto;
+    }
+    .parent18{
+        width: 100%;
+        height: 20vh;
+        /* gap: 20px; */
+    }
+    .gem3{
+        width: 100%;
+        font-size: xx-small;
+        gap: 8px;
+    }
+    .parent19{
+        width: 100%;
+        height: 40vh;
+    }
+    .moon4{
+        height: 50px;
+    }
+    .moon3{
+        width: 180%;
+        font-size: small;
+    }
+    .moon1{
+        height: 30vh;
+    }
+    .moon5{
+        width: 30%;
+        font-size: x-small;
+    }
+    .parent20{
+        font-size: x-small;
+    }
+    .image{
+        width: 100vw;
+        height: 350px;
+    }
+
+}
